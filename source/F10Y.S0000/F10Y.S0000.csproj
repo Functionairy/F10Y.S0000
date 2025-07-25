@@ -24,10 +24,9 @@
     <ProjectReference Include="..\..\..\F10Y.Z0000\source\F10Y.Z0000\F10Y.Z0000.csproj" />
     <ProjectReference Include="..\..\..\F10Y.L0006\source\F10Y.L0006\F10Y.L0006.csproj" />
     <ProjectReference Include="..\..\..\F10Y.Z0010\source\F10Y.Z0010\F10Y.Z0010.csproj" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Update="Files\Example.xml">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
+    <ProjectReference Include="..\..\..\F10Y.L0060\source\F10Y.L0060.Q000\F10Y.L0060.Q000.csproj" />
+    <ProjectReference Include="..\..\..\F10Y.L0024\source\F10Y.L0024.Q000\F10Y.L0024.Q000.csproj" />
+    <ProjectReference Include="..\..\..\F10Y.L0000\source\F10Y.L0000.Q000\F10Y.L0000.Q000.csproj" />
+    <ProjectReference Include="..\..\..\F10Y.Q0000\source\F10Y.Q0000\F10Y.Q0000.csproj" />
   </ItemGroup>
 </Project>

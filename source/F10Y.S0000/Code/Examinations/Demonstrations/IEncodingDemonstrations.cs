@@ -3,7 +3,6 @@ using System.Threading.Tasks;
 
 using F10Y.T0006;
 
-/// X
 
 namespace F10Y.S0000
 {

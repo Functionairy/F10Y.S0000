@@ -17,7 +17,7 @@ namespace F10Y.S0000
 
 #pragma warning restore IDE1006 // Naming Styles
 
-        /// <inheritdoc cref="L0004.IFilePaths.Output_ProjectFilePath"/>
+        /// <inheritdoc cref="L0004.L000.IFilePaths.Output_ProjectFilePath"/>
         public string Output => Instances.FilePaths.Output_ProjectFilePath;
     }
 }
