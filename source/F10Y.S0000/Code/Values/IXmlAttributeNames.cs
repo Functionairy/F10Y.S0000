@@ -20,7 +20,7 @@ namespace F10Y.S0000
         /// <inheritdoc cref="L0006.Z000.IProjectAttributeNames.Label"/>
         public string Label => _ProjectAttributeNames.Label;
 
-        /// <inheritdoc cref="L0006.Z000.IProjectAttributeNames.SDK"/>
-        public string SDK => _ProjectAttributeNames.SDK;
+        /// <inheritdoc cref="L0006.Z000.IProjectAttributeNames.Sdk"/>
+        public string SDK => _ProjectAttributeNames.Sdk;
     }
 }

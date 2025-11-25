@@ -18,7 +18,7 @@ namespace F10Y.S0000
         public static L0000.IExecutablePathOperator ExecutablePathOperator => L0000.ExecutablePathOperator.Instance;
         public static L0000.IFileOperator FileOperator => L0000.FileOperator.Instance;
         public static IFilePaths FilePaths => S0000.FilePaths.Instance;
-        public static L0000.Q000.IGuidDemonstrations GuidDemonstrations => L0000.Q000.GuidDemonstrations.Instance;
+        public static L0000.Q000.IGuidDemonstrations GuidDemonstrations => S0000.GuidDemonstrations.Instance;
         public static IJsonDemonstrations JsonDemonstrations => S0000.JsonDemonstrations.Instance;
         public static L0004.ILoadOptionsSet LoadOptionsSet => L0004.LoadOptionsSet.Instance;
         public static L0019.INotepadPlusPlusOperator NotepadPlusPlusOperator => L0019.NotepadPlusPlusOperator.Instance;
@@ -41,7 +41,7 @@ namespace F10Y.S0000
         public static L0000.IStrings Strings => L0000.Strings.Instance;
         public static Z0002.ITargetFrameworkMonikers TargetFrameworkMonikers => Z0002.TargetFrameworkMonikers.Instance;
         public static L0000.IValues Values => L0000.Values.Instance;
-        public static L0000.Q000.IVersionDemonstrations VersionDemonstrations => L0000.Q000.VersionDemonstrations.Instance;
+        public static L0000.Q000.IVersionDemonstrations VersionDemonstrations => S0000.VersionDemonstrations.Instance;
         public static L0006.IVersionOperator VersionOperator => L0006.VersionOperator.Instance;
         public static L0000.IVersions Versions => L0000.Versions.Instance;
         public static Z0002.IWarnings Warnings => Z0002.Warnings.Instance;
